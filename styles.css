@@ -11,6 +11,9 @@ body {
     Roboto, Helvetica, Arial, sans-serif;
   background: #0f172a;
 }
+h1 {
+  font-size: 30px;
+}
 
 
 .card-row {
