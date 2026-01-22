@@ -15,7 +15,8 @@ body {
 
 .card-row {
   display: flex;
-  gap: 20px;
+  justify-content: center;
+  gap: 30px;
   padding: 24px;
 }
 
