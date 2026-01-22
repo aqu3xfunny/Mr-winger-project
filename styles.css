@@ -20,6 +20,11 @@ h1 {
  justify-content: center; 
 }
 
+.pp{
+  display: flex;
+ justify-content: center;  
+}
+
 .card-row {
   display: flex;
   justify-content: center;
@@ -55,8 +60,9 @@ h1 {
 
 .card img {
   width: 100px;
-  height: auto;
-  object-fit: contain;
+  height: 100px;
+  object-fit: cover;
+  border-radius: 8px;    
 }
 
 
