@@ -15,6 +15,9 @@ h1 {
   font-size: 50px;
 }
 
+.wing{
+ justify-content: middle; 
+}
 
 .card-row {
   display: flex;
