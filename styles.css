@@ -23,6 +23,10 @@ h1 {
   justify-content: center;
   color: #fff;
 }
+p {
+   color: #fff; 
+   text-shadow: 0 0 10px #fff;
+}
 
 .card-row {
   display: flex;
