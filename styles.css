@@ -133,6 +133,7 @@ h1 {
 .snow::after {
   animation-duration: 45s;
   opacity: 0.3;
+  transform: translateX(120px);
 }
 
 @keyframes snow-fall {
