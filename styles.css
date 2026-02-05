@@ -179,12 +179,13 @@ p {
   transition:
   transform 0.2s ease,
   box-shadow 0.2s ease;
+  opacity: 1;
 }
 
 .shittybutton{
   display: flex;
   justify-content: center;
- /* padding: 10px; */
+  padding: 25px;
   z-index: 1;
 }
 @keyframes snow-fall {
