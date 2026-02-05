@@ -180,6 +180,15 @@ p {
   transform 0.2s ease,
   box-shadow 0.2s ease;
 }
+
+.shittybutton{
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+  padding: 24px;
+  position: relative;
+  z-index: 1;
+}
 @keyframes snow-fall {
   from {
     background-position-y: 0;
