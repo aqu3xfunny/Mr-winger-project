@@ -187,7 +187,7 @@ p {
   justify-content: center;
   padding: 25px;
   z-index: 1;
-  width: 300px;
+  padding: 15px 30px;
 }
 @keyframes snow-fall {
   from {
