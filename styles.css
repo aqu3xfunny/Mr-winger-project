@@ -75,7 +75,7 @@ p {
   text-align: center;
 }
 
-.card:hover {
+.card, .shit:hover {
   transform: translateY(-6px) scale(1.03);
   box-shadow: 0 12px 30px rgba(0, 0, 0, 0.35);
 }
