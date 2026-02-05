@@ -165,7 +165,7 @@ p {
 
   opacity: 0.2;
 }
-.shit {
+#shit {
   display: flex;
   flex-direction: column;
   align-items: center;
