@@ -180,7 +180,7 @@ p {
   transform 0.2s ease,
   box-shadow 0.2s ease;
   opacity: 1;
-  padding: 14px 35px;
+  padding: 14px 50px;
   min-width: 160px;
   z-index: 1;
 }
