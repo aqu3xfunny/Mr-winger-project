@@ -118,7 +118,7 @@ p {
 
   animation:
   snow-fall 30s linear infinite,
-  snow-sway 10s ease-in-out infinite;
+  snow-sway 14s ease-in-out infinite;
 }
 
 .snow::before {
@@ -216,8 +216,9 @@ iframe {
 
 @keyframes snow-sway {
   0%   { transform: translateX(0); }
-  25%  { transform: translateX(2%); }
-  50%  { transform: translateX(-2%); }
-  75%  { transform: translateX(2%); }
-  100% { transform: translateX(0); }
+  20%  { transform: translateX(4%); }
+  40%  { transform: translateX(-6%); }
+  60%  { transform: translateX(3%); }
+  80%  { transform: translateX(-4%); }
+  100% { transform: translatex(0); }
 }
