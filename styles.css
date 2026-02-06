@@ -117,7 +117,7 @@ p {
   background-repeat: repeat;
 
   animation:
-  snow-fall 35s linear infinite,
+  snow-fall 35s linear infinite;
 }
 
 .snow::before {
