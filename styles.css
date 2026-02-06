@@ -116,9 +116,9 @@ p {
 
   background-repeat: repeat;
 
-  animation-name: snow-fall;
-  animation-timing-function: linear;
-  animation-iteration-count: infinite;
+  animation:
+  snow-fall 30s linear infinite,
+  snow-sway 6s ease-in-out infinite;
 }
 
 .snow::before {
@@ -212,4 +212,10 @@ iframe {
   to {
     background-position: 120px 100%;
   }
+}
+
+@keyframes snow-sway {
+  0% { transform: translateX(0); }
+  50% { transform: translateX(40px); }
+  100% { transform: translateX(0); }
 }
