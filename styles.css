@@ -118,7 +118,7 @@ p {
 
   animation:
   snow-fall 30s linear infinite,
-  snow-sway 25s ease-in-out infinite;
+  snow-sway 35s ease-in-out infinite;
 }
 
 .snow::before {
