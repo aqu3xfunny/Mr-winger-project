@@ -207,9 +207,9 @@ iframe {
 
 @keyframes snow-fall {
   from {
-    background-position-y: 0;
+    background-position-y: 0 0;
   }
   to {
-    background-position-y: 100%;
+    background-position-y: 120px 100%;
   }
 }
