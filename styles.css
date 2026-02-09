@@ -47,7 +47,7 @@ p {
   width: 180px;
   height: 220px;
   padding: 16px;
-
+  flex-basis: 180px;
   background: linear-gradient(180deg, #1e293b, #141f38);
   border-radius: 16px;
 
