@@ -21,7 +21,6 @@ h1 {
 .pp {
   display: flex;
   justify-content: center;
-  /* flex-direction: column; */
   color: #fff;
 }
 
@@ -29,7 +28,6 @@ h1 {
   display: flex;
   justify-content: center;
   align-items: center;
-  padding: o 50px;
   color: #fff;
 }
 p {
