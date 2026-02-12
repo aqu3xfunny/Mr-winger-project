@@ -17,6 +17,10 @@ h1 {
   text-shadow: 0 0 10px #fff;
 }
 
+.disclaimer {
+padding: 0 50px;
+}
+
 .wing,
 .pp {
   display: flex;
