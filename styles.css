@@ -29,6 +29,7 @@ h1 {
   display: flex;
   justify-content: center;
   align-items: center;
+  padding: o 50px;
   color: #fff;
 }
 p {
